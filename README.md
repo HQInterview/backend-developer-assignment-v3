@@ -5,6 +5,7 @@ Develop a simple script that retrivies file from a URL and imports data into dat
 NOTE: Ensure the process can handle files of varying sizes without having to scale vertically.
 
 **File structure**
+
 1 order per line
 
 ```
